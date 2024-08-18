@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db79c1ae-f7e8-42d5-bb68-7a56f7a15498" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Attitstation work.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/price_files_folder/output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/price_files_folder/price_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/price_files_folder/price_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/price_files_folder/price_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/price_files_folder/price_3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/price_files_folder/price_4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/price_files_folder/price_5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/price_files_folder/price_6.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/price_files_folder/price_7.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/price_files_folder/Текст задания.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/price_files_folder/прайслист_не брать.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prob.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project.py" afterDir="false" />
-    </list>
+    <list default="true" id="db79c1ae-f7e8-42d5-bb68-7a56f7a15498" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,6 +87,19 @@
       <option name="presentableId" value="Default" />
       <updated>1723966104488</updated>
     </task>
+    <task id="LOCAL-00001" summary="Аттестационная работа&#10;Анализатор прайс-листов&#10;Дмитрий Соловьёв&#10;18..08.2024">
+      <option name="closed" value="true" />
+      <created>1724013670476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724013670477</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Аттестационная работа&#10;Анализатор прайс-листов&#10;Дмитрий Соловьёв&#10;18..08.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Аттестационная работа&#10;Анализатор прайс-листов&#10;Дмитрий Соловьёв&#10;18..08.2024" />
   </component>
 </project>
